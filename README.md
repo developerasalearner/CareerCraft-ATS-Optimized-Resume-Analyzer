@@ -1,9 +1,3 @@
-# CareerCraft-ATS-Optimized-Resume-Analyzer
-
-Here's the content for the `README.md` file for your **CareerCraft: ATS-Optimized Resume Analyzer** project:
-
----
-
 # CareerCraft: ATS-Optimized Resume Analyzer
 
 ## Overview
